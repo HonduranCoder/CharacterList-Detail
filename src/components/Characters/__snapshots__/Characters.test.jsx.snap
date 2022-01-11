@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Characters 1`] = `
+<div>
+  <ul>
+    <li>
+      <a
+        href="/character/5cf5679a915ecad153ab68c8"
+      >
+        <div>
+          <img
+            height="200"
+            width="200"
+          />
+          <span />
+        </div>
+      </a>
+    </li>
+  </ul>
+</div>
+`;
